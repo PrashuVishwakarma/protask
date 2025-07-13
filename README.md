@@ -2,7 +2,7 @@
 
 **ProTask** is a simple yet powerful todo list web application designed to help users manage tasks efficiently. It provides an intuitive and visually appealing interface built using **HTML**, **CSS**, and **JavaScript**, with features like task filtering, categorization, due dates, and priority tags.
 
-![Screenshot](./screenshot.png)
+![App Screenshot](./screenshot.png)
 
 ## 🚀 Features
 
